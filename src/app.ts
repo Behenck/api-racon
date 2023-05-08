@@ -8,7 +8,7 @@ const serverHttp = http.createServer(app);
 
 app.use(express.json());
 
-app.get("/api", async (req, res) => {
+app.get("/", async (req, res) => {
   const content = fs.readFileSync(path.join(__dirname, 'api.json'), 'utf-8');
   res.send(content);
 });
