@@ -1,0 +1,76 @@
+{
+  "grupos": [
+    {
+      "id": 1,
+      "codigo": 1293,
+      "prazo": 220,
+      "participantes": 1000,
+      "taxaAdministracao": 19.80,
+      "taxaFundoReserva": 2,
+      "primeiraAssembleia": "2022-08-15",
+      "situacao": "Em andamento",
+      "produtos": [
+        {
+          "id": 1,
+          "credito": 350000.00,
+          "tipoParcela": "Integral",
+          "modalidadePagamento": "prorrogada" 
+        },
+        {
+          "id": 2,
+          "credito": 350000.00,
+          "tipoParcela": "Integral",
+          "modalidadePagamento": "diluida" 
+        },
+        {
+          "id": 3,
+          "credito": 350000.00,
+          "tipoParcela": "70% Reduzida",
+          "modalidadePagamento": "diluida" 
+        },
+        {
+          "id": 4,
+          "credito": 350000.00,
+          "tipoParcela": "70% Reduzida",
+          "modalidadePagamento": "prorrogada" 
+        },
+        {
+          "id": 5,
+          "credito": 300000.00,
+          "tipoParcela": "Integral",
+          "modalidadePagamento": "diluida" 
+        },
+        {
+          "id": 6,
+          "credito": 300000.00,
+          "tipoParcela": "Integral",
+          "modalidadePagamento": "prorrogada" 
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "codigo": 159,
+      "prazo": 220,
+      "participantes": 1000,
+      "taxaAdministracao": 12.10,
+      "taxaFundoReserva": 3,
+      "primeiraAssembleia": "2022-08-15",
+      "situacao": "Em andamento",
+      "produtos": [
+        {
+          "id": 1,
+          "credito": 50000.00,
+          "tipoParcela": "Integral",
+          "modalidadePagamento": "prorrogada" 
+        },
+        {
+          "id": 2,
+          "credito": 50000.00,
+          "tipoParcela": "Integral",
+          "modalidadePagamento": "diluida" 
+        }
+      ]
+    }
+  ]  
+}
