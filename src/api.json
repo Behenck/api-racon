@@ -7,8 +7,11 @@
       "participantes": 1000,
       "taxaAdministracao": 19.80,
       "taxaFundoReserva": 2,
-      "primeiraAssembleia": "2022-08-15",
+      "primeiraAssembleia": "2021-08-15",
       "situacao": "Em andamento",
+      "reajuste": 2,
+      "dataUltimoReajuste": "2022-10-15",
+      "dataproximoReajuste": "2023-12-15",
       "produtos": [
         {
           "id": 1,
